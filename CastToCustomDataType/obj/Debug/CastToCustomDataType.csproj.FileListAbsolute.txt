@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\bin\Debug\CastToCustomDataType.exe.config
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\bin\Debug\CastToCustomDataType.exe
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\bin\Debug\CastToCustomDataType.pdb
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\obj\Debug\CastToCustomDataType.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\obj\Debug\CastToCustomDataType.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\obj\Debug\CastToCustomDataType.exe
+C:\Users\User\source\repos\CastToCustomDataType\CastToCustomDataType\obj\Debug\CastToCustomDataType.pdb
